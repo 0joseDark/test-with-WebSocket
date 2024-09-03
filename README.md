@@ -2,3 +2,5 @@
  communicate using WebSocket
  
  # pip install websockets
+ 
+ # sudo apt-get install python3-tk
