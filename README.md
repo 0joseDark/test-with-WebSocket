@@ -8,7 +8,7 @@
 
  https://websocket-client.readthedocs.io/en/latest/
  
-<<<<<<< HEAD
- !(image)
-=======
->>>>>>> 215c35355b39e534a455a2724cca0ab288ea8bb7
+
+ !(https://github.com/0joseDark/test-with-WebSocket/blob/main/image/server-cliente.jpg)
+
+
