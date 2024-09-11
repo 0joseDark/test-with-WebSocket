@@ -7,8 +7,7 @@
  # sudo apt-get install python3-tk
 
  https://websocket-client.readthedocs.io/en/latest/
- 
-
- !(https://github.com/0joseDark/test-with-WebSocket/blob/main/image/server-cliente.jpg)
+#
+!(https://github.com/0joseDark/test-with-WebSocket/blob/main/image/server-cliente.jpg)
 
 
