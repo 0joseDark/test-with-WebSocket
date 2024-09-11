@@ -7,5 +7,5 @@
  # sudo apt-get install python3-tk
 
  https://websocket-client.readthedocs.io/en/latest/
- 
-![Texto alternativo](C:\Users\jose\Documents\GitHub\test-with-WebSocket\image\server-cliente.jpg)
+ #
+ ![Texto Alternativo](https://github.com/0joseDark/test-with-WebSocket/blob/main/image/server-cliente.jpg)
